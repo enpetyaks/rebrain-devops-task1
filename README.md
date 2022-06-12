@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://gitlab.rebrainme.com/devops_users_repos/4011/rebrain-devops-task1">
-    <img src="https://enpetyaks.github.io/images/fout.jpg" alt="Logo" width="80" height="80">
+    <img src="https://enpetyaks.github.io/images/fout.jpg" alt="Logo">
   </a>
 
   <h3 align="center">Rebrain GIT Tasks</h3>
