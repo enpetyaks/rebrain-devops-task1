@@ -23,8 +23,8 @@
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#about-the-project">About The Project</a></li>
-    <li><a href="#paragraph1">Paragraph 1</a></li>
-    <li><a href="#paragraph2">Paragraph 2</a></li>
+    <li><a href="#Paragraph 1">Paragraph 1</a></li>
+    <li><a href="#Paragraph 2">Paragraph 2</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
