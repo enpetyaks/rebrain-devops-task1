@@ -23,8 +23,8 @@
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#about-the-project">About The Project</a></li>
-    <li><a href="#Paragraph 1">Paragraph 1</a></li>
-    <li><a href="#Paragraph 2">Paragraph 2</a></li>
+    <li><a href="#Paragraph1">Paragraph1</a></li>
+    <li><a href="#Paragraph2">Paragraph2</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
@@ -50,8 +50,8 @@ Here is numbered list:
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-<!-- PARAGRAPH2 -->
-### Paragraph 1
+<!-- PARAGRAPH1 -->
+### Paragraph1
 
 Table example:
 
@@ -64,7 +64,7 @@ Content Cell  | Content Cell
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- PARAGRAPH2 -->
-### Paragraph 2
+### Paragraph2
 
 Quoting example:
 
